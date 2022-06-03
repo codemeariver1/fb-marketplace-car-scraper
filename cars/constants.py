@@ -2,8 +2,8 @@
 # Leaving an empty string, denoted as '', will leave the default parameter 
 
 # Define your facebook credentials here:
-MY_USERNAME = 'sjoseph1@knights.ucf.edu'
-MY_PASSWORD = 'qiwcUv-jirpu7-murkec'
+MY_USERNAME = ''
+MY_PASSWORD = ''
 
 # Define your desired vehicle make or make and model
 CAR_MAKE = '61' # Leave empty for all or enter a number: 
