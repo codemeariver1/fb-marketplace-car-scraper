@@ -1,12 +1,13 @@
 # Page defining constants used within the bot
 # Leaving an empty string, denoted as '', will leave the default parameter 
+# Capitalization matters! Pay attention to details!
 
 # Define your facebook credentials here:
 MY_USERNAME = ''
 MY_PASSWORD = ''
 
 # Define your desired vehicle make or make and model
-CAR_MAKE = '61' # Leave empty for all or enter a number: 
+CAR_MAKE = '61' # Leave empty to set all as default or enter a number: 
                     # ( A )
                     # Acura-(1), Alfa Romeo-(2), Aston Martin-(2), Audi-(4)
                     # ( B )
@@ -48,7 +49,7 @@ CAR_MAKE = '61' # Leave empty for all or enter a number:
                     # Tesla-(61), Toyota-(62)
                     # ( V )
                     # Volkswagen-(63), Volvo-(64)
-CAR_MODEL = '61b' # Leave empty for all or enter a number: 
+CAR_MODEL = '61b' # Leave empty to set all as default or enter a number-letter combination: 
                     # Acura:
                         # CL-(1a), ILX-(1b), Integra-(1c), Acura Legend-(1d), MDX-(1e), NSX-(1f), RDX-(1g), RL-(1h), RLX-(1i), 
                         # RSX-(1j), Acura SLX-(1k)
