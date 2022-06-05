@@ -131,7 +131,7 @@ class CarData:
             #print('---')
             print(car_name)
             print(car_price)
-            print('Listed ', time_since_posted, ' ago in ', seller_location)
+            print('Listed', time_since_posted, 'ago in', seller_location)
             print(car_desc)
             print(link)
             print('---')
